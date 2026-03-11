@@ -1,4 +1,4 @@
-# dns-sinkhole
+# dns-sinkhole Adblocker
 To run on linux systems do the following
 ```
 go get golang.org/x/net/dns/dnsmessage
